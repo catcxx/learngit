@@ -1,0 +1,12 @@
+1.for modify file
+git pull
+git status
+git commit -a -m "modify xx"
+git push
+
+2.for add file or dir
+git pull
+git status
+git add .
+git commit -a -m  "add xx"
+git push
